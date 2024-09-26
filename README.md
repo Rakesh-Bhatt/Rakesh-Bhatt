@@ -55,8 +55,3 @@ I’m Rakesh Bhatt, a full-stack developer with 3 years of experience in Ruby on
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-Bhatt&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
-
-<br/>
-![Profile views counter](https://komarev.com/ghpvc/?username=Rakesh-Bhatt&&style=flat-square)
-<br/>
-****
